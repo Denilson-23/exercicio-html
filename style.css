@@ -1,0 +1,112 @@
+
+
+
+
+
+
+button {
+    border-radius: 20px;
+    background-color: rgb(90, 88, 86);
+    border: none;
+    height: 40px;
+    width: 200px;
+    position: absolute;
+    top: 300px;
+    left: 170px;
+
+}
+    h1{
+        position: fixed;
+        color: blue
+        ;
+    }
+
+button:hover {
+    background-color: rgb(163, 165, 167);
+    cursor: pointer;
+    text-decoration: none;
+}
+button:active{
+    background-color: red;
+}
+    a{
+        text-decoration: none;
+    }     
+
+
+
+header {
+    font-size: 20px;
+    font-weight: 10px;
+    background-color: beige;
+    position: static;
+   
+}
+
+
+
+.link {
+    color: #f0ffff;
+    font: oblique;
+    cursor: pointer;
+
+}
+
+.t-tabela {
+    font-size: 50px;
+    color: blue;
+}
+
+.tt {
+    cursor: pointer;
+}
+
+body {
+    background-color: bisque;
+    font-family: "pacifico", sans-serif;
+}
+
+.d-he {
+    display: inline-block;
+    margin-left: 40px;
+    width: 400px;
+    height: 300px;
+    background-color: beige
+}
+
+.d-ar {
+    background-color: beige;
+    margin-left: 40px;
+    display: inline-block;
+    height: 500px;
+    width: 400px;
+position: relative;
+}
+
+.div-tabela {
+    display: inline-block;
+    width: 400;
+    height: 300;
+    position: relative;
+    bottom: 250px;
+    left: 40px;
+    background-color: beige;
+
+
+}
+
+
+
+    img{
+
+        position: relative;
+        bottom: 300px;
+    }
+        iframe{
+             position: relative;
+             bottom: 300px;
+        }
+            video{
+                position: relative;
+            bottom: 300px;
+            }
